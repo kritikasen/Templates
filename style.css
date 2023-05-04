@@ -1,0 +1,7 @@
+.card-img-top:hover {
+    opacity: 0.8; /* change the opacity of the image on hover */
+    transform: scale(1.1); /* scale the image up on hover */
+    /* add any other CSS properties you want to modify */
+  }
+  
+  
